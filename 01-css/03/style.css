@@ -1,0 +1,17 @@
+/* Universa; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Class Selector */
+.p2{
+    background-color: brown !important;
+    color: chartreuse;
+}
+
+/* Grouping Selector */
+h1 , p {
+
+}
